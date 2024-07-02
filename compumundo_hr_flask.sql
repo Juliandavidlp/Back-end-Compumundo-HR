@@ -1,0 +1,1 @@
+SELECT * FROM compumundo_hr_flask.products;
